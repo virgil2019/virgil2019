@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on something about Layer2 for Bitcoin  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning AI  
   
 
 <br/>  
